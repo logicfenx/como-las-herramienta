@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/como-las-herramienta",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a como-las-herramienta",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/como-las-herramienta.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/herramientas-inteligencia-artificial-ingresos/"
+    },
+    "homepage": "https://isproto.com/herramientas-inteligencia-artificial-ingresos/"
+}
